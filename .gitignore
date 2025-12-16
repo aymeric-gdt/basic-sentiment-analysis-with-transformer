@@ -1,0 +1,7 @@
+.venv
+uv.lock
+merged_training.pkl
+v1_checkpoints/
+v1_results/
+checkpoints/*pt
+*.pyc
