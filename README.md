@@ -228,4 +228,4 @@ Ce projet est à des fins éducatives.
 ---
 
 **Auteur** : Exploration personnelle des Transformers  
-**Date** : 2024
+**Date** : 2025
