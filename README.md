@@ -209,14 +209,6 @@ basic-sentiment-analysis-with-transformer/
 - `tqdm` : Barres de progression
 - `unidecode` : Normalisation des caractères
 
-## 🎯 Prochaines Étapes Possibles
-
-- [ ] Expérimentation avec différents hyperparamètres
-- [ ] Comparaison avec des modèles pré-entraînés (BERT, RoBERTa)
-- [ ] Analyse de l'attention (visualisation des poids d'attention)
-- [ ] Fine-tuning sur un dataset spécifique
-- [ ] Déploiement en API REST
-
 ## 📝 Notes
 
 Ce projet est avant tout **éducatif**. Pour des applications en production, il est recommandé d'utiliser des modèles pré-entraînés comme BERT ou des architectures plus récentes, qui bénéficient de l'entraînement sur de vastes corpus.
